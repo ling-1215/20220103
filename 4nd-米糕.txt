@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>網頁架構</title>
+</head>
+<body>
+
+
+</div>
+<h3>米糕油飯</h3>
+</div>
+
+<a href="2nd.html">四神湯</a>
+<a href="3nd.html">三杯松阪豬</a>
+<a href="index.html">餐飲美食首頁</a>
+<a href="5nd.html">心得感想</a>
+
+<table border="1">
+<tr>
+<th>圖片</th>
+<th>標題</th>
+<th>說明</th>
+</tr>
+
+
+<tr>
+<td><img src=".\0013.jpg" width="400" height="300" align="left"></td>
+<td><h3>台灣料理-櫻花蝦干貝米糕</h3></td>
+<td>米糕油飯為台灣料理，<br>
+台灣人的習俗，米糕(或油飯)是喜慶時不可缺少的一道料理。<br>
+是一種傳統的米食料理，<br>
+通常是以蒸熟的糯米，拌入炒香的佐料。<br>
+長糯米Q彈好吃，再加上干貝、櫻花蝦頂級食材做搭配，<br>
+用醬油、糖、米酒、紅蔥頭、蒜末、麻油等調製出濃濃香氣，<br>
+冬天來上一口，暖呼呼滿足在心頭。<p></td>
+</div>
+</tr>
+
+
+</table>
+<audio src=".\101-輕音樂.mp3" autoplay controls> </audio>
